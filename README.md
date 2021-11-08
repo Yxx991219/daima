@@ -1,8 +1,8 @@
 # requirements
 
-tensorflow
-numpy
-math
-random
-codecs
-csv
+* tensorflow
+* numpy
+* math
+* random
+* codecs
+* csv
