@@ -1,5 +1,5 @@
-# daima
-##requirements:
+# requirements
+
 tensorflow
 numpy
 math
